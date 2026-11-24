@@ -1,0 +1,13 @@
+name = "AntOS Computer | Quests + Guidebook"
+filename = "antos-neoforge-1.21.1-1.6.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MzU6Lh9B/versions/BmuFFKvQ/antos-neoforge-1.21.1-1.6.8.jar"
+hash-format = "sha512"
+hash = "bc84088639a4361fe61c09069ca79886666728e59e27dc308a54be5800c1f0870e6e0d2457cfd3ea32ed8ac775c01bb64b5be02ced672ea483169d909f1259d4"
+
+[update]
+[update.modrinth]
+mod-id = "MzU6Lh9B"
+version = "BmuFFKvQ"

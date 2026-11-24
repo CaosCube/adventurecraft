@@ -16,6 +16,16 @@ hash = "24a3cbaba51753048dbb3f9aadf23e14803af82b53ecb50027c9b9a5178eaef0"
 metafile = true
 
 [[files]]
+file = "mods/anthology.pw.toml"
+hash = "1058923ab75801798b982fb033fd970671f57188d99ccbe3a0bca9051b677338"
+metafile = true
+
+[[files]]
+file = "mods/antos.pw.toml"
+hash = "c5064923344ed6ae9893e753375a1a3f36f77e32432befe0b6049de2328fefd5"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
@@ -261,6 +271,11 @@ hash = "4601b9be31b6e131dca8a148c974d015444bcac7c82fcb66fbd8751a67933a5d"
 metafile = true
 
 [[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "2006d93b750930a88d26709981818a3b8b14dfa3b0e8d0f05d0532d3475ee80b"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
@@ -493,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "6f9502735fcac7a35468358e2aa0fd9333b12df885db3325c472d298ce315a72"
+metafile = true
+
+[[files]]
+file = "mods/sizeable-foliage.pw.toml"
+hash = "4e49b2d2107e2c6462d90e094c8a655eb4e6b4533a617ac1e233b6414092435f"
 metafile = true
 
 [[files]]
