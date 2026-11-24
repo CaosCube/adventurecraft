@@ -1,0 +1,13 @@
+name = "AdventureCraft"
+author = "Caon"
+version = "0.8.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "27f7365a3b3372d28dd33e254bd360f7374d14c8afeccd647df5891508577953"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.267"

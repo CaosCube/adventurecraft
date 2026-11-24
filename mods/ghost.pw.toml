@@ -1,0 +1,13 @@
+name = "Ghost"
+filename = "ghosts-neoforge-1.21.1-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gJKLGvbS/versions/klEeRQLv/ghosts-neoforge-1.21.1-1.4.0.jar"
+hash-format = "sha512"
+hash = "46fa74d65d64c4e6a660ed01c80da0bf2353a1de08cfc66d7e007096f2b4327900526488c335daba0d69b8ce1b6502a1c6fb681432367b0842441aec86bd5613"
+
+[update]
+[update.modrinth]
+mod-id = "gJKLGvbS"
+version = "klEeRQLv"
