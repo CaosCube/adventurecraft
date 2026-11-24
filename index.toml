@@ -6,8 +6,23 @@ hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "63c2ddce7adb7f31fcda50529006fc590be0ce973385242add2a141e30bd18f4"
+metafile = true
+
+[[files]]
+file = "mods/antarchy.pw.toml"
+hash = "24a3cbaba51753048dbb3f9aadf23e14803af82b53ecb50027c9b9a5178eaef0"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
+metafile = true
+
+[[files]]
+file = "mods/aquamirae.pw.toml"
+hash = "10dc7afc136128d610ab128437036a531169ed44195386403366336fa831dffb"
 metafile = true
 
 [[files]]
@@ -176,8 +191,18 @@ hash = "ed1b9c3018ec4e6afbaafd1544138a4f11bc211683ecf9c5d28b42553f60e8c7"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/fowlplay.pw.toml"
+hash = "a062a34236acb766f24a2082b9f7681217e4316034fd5b6ae55cff3861f346c4"
 metafile = true
 
 [[files]]
@@ -238,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
+metafile = true
+
+[[files]]
+file = "mods/isleweaver.pw.toml"
+hash = "5cc210d63259e799b47aa228bbee91d56e91b6aa6c19942b0db4e6ab87113a6e"
 metafile = true
 
 [[files]]
@@ -331,6 +361,11 @@ hash = "0024e497d2569c6e0b20ea51593cefb785c35edf2f2a40a1aae7f6ed96b655b3"
 metafile = true
 
 [[files]]
+file = "mods/merchant-markers.pw.toml"
+hash = "aa76f09c73b1e703cbaefa26332487b04d4ffd45df77fc1a4140ad6c1360693c"
+metafile = true
+
+[[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "f1fecbcbee6806a14efb3bd38ccf10166b48004967fbe72b6c31224e5e9fc5ea"
 metafile = true
@@ -388,6 +423,11 @@ metafile = true
 [[files]]
 file = "mods/pillager-caravans.pw.toml"
 hash = "2ab937d495a62351d6e07df0d5cf6ccd4001dc2e45632c82756d3f76824e9209"
+metafile = true
+
+[[files]]
+file = "mods/platform.pw.toml"
+hash = "a76b6068b10171b1fc244d5cb0a9dfbd0694b33e25c62eeeb5726c73d297cd3d"
 metafile = true
 
 [[files]]
@@ -456,6 +496,11 @@ hash = "6f9502735fcac7a35468358e2aa0fd9333b12df885db3325c472d298ce315a72"
 metafile = true
 
 [[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "6e7ce9c2aee5bb72d2698eb89035c9b2458d20daa0782e1a03cfba7a6647621e"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "7ece7b8e65ac74bc1c705a3e25948ce5772c26ddf148514f29d90920ca1c3866"
 metafile = true
@@ -501,6 +546,11 @@ hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
+file = "mods/the-beyond.pw.toml"
+hash = "38adf4d5137b7937f0d8b01d4dd61c9bd8a4f4a7f2149e867c17b53311d21c47"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
 metafile = true
@@ -513,6 +563,11 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "da1c1cf28e8d5ffe377998d29d59eae29a2020f2de7a0aea7f7253acdc695cfd"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "0ea8ab3c8eebc336062f5e2da28c50f460fdc555913a9a66e4f27972c3a5e1ef"
 metafile = true
 
 [[files]]
@@ -558,4 +613,24 @@ metafile = true
 [[files]]
 file = "resourcepacks/fluid-foolish.pw.toml"
 hash = "193dc1f1a904c02de3e74d9d8a17cc3524563c7e19fc57e0c3d05ceaa4489085"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "cc45eddc38491d24d9060f7737863cc5d4719f558e1acde8c8b9b1ce31054ff2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "6a489b37b949921beffb24adb91d6f572c4ee82668b7dc15b8aaedd767476aad"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visual-effects-plus.pw.toml"
+hash = "3076df982eecf4e3f2d19fdff0f7a1b4bba79e1523ffd5e61c00b85f449f3725"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "0d32bfe86e50ee8f5533cf53f1f1a3597f34df2ae2408b120f96bc4bbc723706"
 metafile = true
