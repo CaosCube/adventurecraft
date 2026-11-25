@@ -41,6 +41,11 @@ hash = "21347d7f9c96cebacb7238dbef2670e2906a11572606016c8184e9485947dacc"
 metafile = true
 
 [[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "63a480658fe7579453ce3e18d9a1622d062767ecfb09fdf18ceb6db47b560f23"
+metafile = true
+
+[[files]]
 file = "mods/ati-structures-vanilla-edition.pw.toml"
 hash = "6b0cc79adaf736f3d73a3dc647a627e017d9bc2067355700b259cf7fc872b274"
 metafile = true
@@ -321,6 +326,11 @@ hash = "f262b49b1038ef9f67704e0629da6aafa84cf4f760273589f5d73530ca5d74b5"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
+metafile = true
+
+[[files]]
 file = "mods/legendary-monsters.pw.toml"
 hash = "85ac19bea743012735c5fbad2382abca019e588fa21a515451b9e73197e27c79"
 metafile = true
@@ -518,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "6e7ce9c2aee5bb72d2698eb89035c9b2458d20daa0782e1a03cfba7a6647621e"
+metafile = true
+
+[[files]]
+file = "mods/smooth-skies.pw.toml"
+hash = "a118ed58955f9bc6a9367690818520e96f11b94b2067440bed55300139fc0988"
 metafile = true
 
 [[files]]
